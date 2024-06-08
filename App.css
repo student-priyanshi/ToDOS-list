@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+main {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ddd;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+}
+
+.act > button {
+  margin-left: 10px;
+  border-radius: 50%;
+  margin-top: 10px;
+  background-color: bisque;
+
+}

@@ -1,0 +1,10 @@
+/* index.css */
+
+/* Add global styles or reset styles here */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  background-color: #9b59b6;
+}
